@@ -1,0 +1,10 @@
+<testsuites name="Tests">
+<testsuite name="Book Controller Tests: Post" tests="1" failures="0" skipped="0" timestamp="Fri, 27 May 2016 05:39:28 GMT" time="0.008">
+<testcase classname="Book Controller Tests: Post" name="should not allow for any books" time="0.004">
+</testcase>
+</testsuite>
+<testsuite name="Book CRUD Test" tests="1" failures="0" skipped="0" timestamp="Fri, 27 May 2016 05:39:28 GMT" time="0.132">
+<testcase classname="Book CRUD Test" name="Should allow a book to be posted and returned a read and _id" time="0.12">
+</testcase>
+</testsuite>
+</testsuites>

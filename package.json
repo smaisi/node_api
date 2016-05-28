@@ -1,0 +1,26 @@
+{
+  "name": "BookAPI",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "express": "~4.11.2",
+    "gulp": "^3.9.1",
+    "gulp-mocha": "^2.2.0",
+    "gulp-nodemon": "^2.0.7",
+    "should": "^8.4.0",
+    "sinon": "^1.17.4"
+  },
+  "DevDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SmaiS",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp-env": "^0.4.0",
+    "mocha-jenkins-reporter": "^0.2.2",
+    "supertest": "^1.2.0"
+  }
+}
